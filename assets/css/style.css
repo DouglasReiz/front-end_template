@@ -302,7 +302,7 @@
 /* RESPONSIVE*/
 
 /* Responsividade para telas menores que 360px */
-@media (max-width: 360px) {
+@media (max-width: 500px) {
 
       
       header .container-header nav {
